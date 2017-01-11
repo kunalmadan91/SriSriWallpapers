@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="ga_trackingId">UA-82900340-3</string>
+        <bool name="ga_autoActivityTracking">true</bool>
+        <screenName name="com.madan.kunal.srisriwallpapers.MainActivityFragment">
+            Main screen
+        </screenName>
+        <screenName name="com.madan.kunal.srisriwallpapers.WallpaperActivityFragment">
+            Wallpaper screen
+        </screenName>
+    </resources>
